@@ -10,7 +10,7 @@ package pkg03_gracielacáceres;
  */
 import javax.swing.JOptionPane;
 
-public class Gato {
+public class Animal {
 
     String nombre;
     String raza;
